@@ -1,0 +1,15 @@
+.gold{
+    color: blueviolet;
+}
+.big {
+    font-size: 2rem;
+}
+#scrollable {
+    position: relative;
+    background-color: aqua;
+    height: 70px;
+    padding: 10px;
+    border: 5px solid greenyellow;
+    margin: 1em;
+    overflow: auto;
+}

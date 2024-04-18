@@ -1,0 +1,28 @@
+p{
+     font-size: 2rem;
+    margin: 1.75rem;
+    padding: 1rem;
+    border: 2px solid blue;
+}
+#para{
+    background-color: aquamarine;
+}
+#box{
+    position:fixed;
+    left: 30px;
+    bottom: 20px;
+    top: 30px;
+    width: 15rem;
+    height: 10rem;
+    border: 2px solid red;
+    background-color: lightgreen;
+}
+#long{
+    position:fixed;
+    left: 30px;
+    bottom: 20px;
+    top: 30px;
+    width: 15rem;
+    height: 10rem;
+    background-color: orange;
+}
